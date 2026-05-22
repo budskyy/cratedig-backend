@@ -12,8 +12,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0" />
     <PackageReference Include="Scalar.AspNetCore" Version="2.*" />
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.0" />
-    <PackageReference Include="Npgsql" Version="8.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.1" />
+    <PackageReference Include="Npgsql" Version="8.0.4" />
     <PackageReference Include="Dapper" Version="2.1.35" />
     <PackageReference Include="StackExchange.Redis" Version="2.7.33" />
   </ItemGroup>
